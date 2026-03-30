@@ -49,7 +49,7 @@ Please cite both the article and this replication package when using these mater
 
 ### Suggested citation for the repository
 
-**Barreto, J., & Dieguez, T.** Replication package for: *Mapping the structural gap between IT leadership and IT management in SMEs: A comparative and longitudinal bibliometric analysis*. GitHub repository. DOI: `[TO BE ADDED AFTER ZENODO DEPOSIT]`
+**Barreto, J., & Dieguez, T.** Replication package for: *Mapping the structural gap between IT leadership and IT management in SMEs: A comparative and longitudinal bibliometric analysis*. GitHub repository. DOI: `https://doi.org/10.5281/zenodo.19334871`
 
 
 ## License
