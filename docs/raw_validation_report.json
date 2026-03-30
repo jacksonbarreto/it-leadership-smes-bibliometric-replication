@@ -1,0 +1,395 @@
+[
+  {
+    "file_name": "corpus_A.csv",
+    "corpus": "A",
+    "rows": 1421,
+    "columns": 45,
+    "expected_columns_match": true,
+    "missing_expected_columns": [],
+    "extra_columns": [],
+    "year_min": 1985,
+    "year_max": 2025,
+    "records_below_min_year": 0,
+    "records_above_max_year": 0,
+    "years_above_max": [],
+    "years_below_min": [],
+    "duplicate_eid_rows": 0,
+    "missing_eid_rows": 0,
+    "duplicate_doi_rows_non_empty": 4,
+    "missing_doi_rows": 414,
+    "missing_pct__Title": 0.0,
+    "missing_pct__Year": 0.0,
+    "missing_pct__Source title": 0.07,
+    "missing_pct__Abstract": 0.0,
+    "missing_pct__Author Keywords": 36.73,
+    "missing_pct__Document Type": 0.0,
+    "missing_pct__Publication Stage": 0.0,
+    "missing_pct__Language of Original Document": 0.0,
+    "missing_pct__EID": 0.0,
+    "missing_pct__DOI": 29.13,
+    "value_counts__Document Type": {
+      "Article": 672,
+      "Conference paper": 428,
+      "Book chapter": 166,
+      "Book": 62,
+      "Review": 60,
+      "Note": 11,
+      "Conference review": 9,
+      "Editorial": 7,
+      "Short survey": 4,
+      "Erratum": 2
+    },
+    "value_counts__Publication Stage": {
+      "Final": 1413,
+      "Article in press": 8
+    },
+    "value_counts__Language of Original Document": {
+      "English": 1402,
+      "Portuguese": 6,
+      "German": 5,
+      "Chinese": 2,
+      "Spanish": 2,
+      "French": 2,
+      "Arabic": 1,
+      "Japanese": 1
+    },
+    "value_counts__Open Access": {
+      "[MISSING]": 1223,
+      "All Open Access; Gold Open Access; Green Open Access": 51,
+      "All Open Access; Bronze Open Access": 36,
+      "All Open Access; Green Open Access": 34,
+      "All Open Access; Gold Open Access": 30,
+      "All Open Access; Hybrid Gold Open Access": 26,
+      "All Open Access; Green Open Access; Hybrid Gold Open Access": 10,
+      "All Open Access; Bronze Open Access; Green Open Access": 10,
+      "All Open Access": 1
+    },
+    "author_keywords_total_instances": 4826,
+    "author_keywords_unique_raw": 3191,
+    "author_keywords_unique_lower": 2813,
+    "author_keywords_threshold_ge_2": 614,
+    "author_keywords_threshold_ge_5": 104,
+    "top_15_author_keywords_lower": [
+      {
+        "keyword": "chief information officer",
+        "count": 165
+      },
+      {
+        "keyword": "cio",
+        "count": 104
+      },
+      {
+        "keyword": "it leadership",
+        "count": 58
+      },
+      {
+        "keyword": "information technology",
+        "count": 57
+      },
+      {
+        "keyword": "digital transformation",
+        "count": 46
+      },
+      {
+        "keyword": "leadership",
+        "count": 44
+      },
+      {
+        "keyword": "chief information officer (cio)",
+        "count": 41
+      },
+      {
+        "keyword": "it governance",
+        "count": 40
+      },
+      {
+        "keyword": "cloud computing",
+        "count": 28
+      },
+      {
+        "keyword": "chief information officers",
+        "count": 24
+      },
+      {
+        "keyword": "information systems",
+        "count": 23
+      },
+      {
+        "keyword": "it management",
+        "count": 21
+      },
+      {
+        "keyword": "higher education",
+        "count": 18
+      },
+      {
+        "keyword": "firm performance",
+        "count": 18
+      },
+      {
+        "keyword": "enterprise architecture",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "file_name": "corpus_A_prime.csv",
+    "corpus": "A_prime",
+    "rows": 1261,
+    "columns": 45,
+    "expected_columns_match": true,
+    "missing_expected_columns": [],
+    "extra_columns": [],
+    "year_min": 1985,
+    "year_max": 2026,
+    "records_below_min_year": 0,
+    "records_above_max_year": 5,
+    "years_above_max": [
+      2026
+    ],
+    "years_below_min": [],
+    "duplicate_eid_rows": 0,
+    "missing_eid_rows": 0,
+    "duplicate_doi_rows_non_empty": 4,
+    "missing_doi_rows": 351,
+    "missing_pct__Title": 0.0,
+    "missing_pct__Year": 0.0,
+    "missing_pct__Source title": 0.08,
+    "missing_pct__Abstract": 0.0,
+    "missing_pct__Author Keywords": 33.94,
+    "missing_pct__Document Type": 0.0,
+    "missing_pct__Publication Stage": 0.0,
+    "missing_pct__Language of Original Document": 0.0,
+    "missing_pct__EID": 0.0,
+    "missing_pct__DOI": 27.84,
+    "value_counts__Document Type": {
+      "Article": 560,
+      "Conference paper": 412,
+      "Book chapter": 156,
+      "Book": 58,
+      "Review": 45,
+      "Note": 10,
+      "Conference review": 9,
+      "Editorial": 6,
+      "Short survey": 4,
+      "Erratum": 1
+    },
+    "value_counts__Publication Stage": {
+      "Final": 1251,
+      "Article in press": 10
+    },
+    "value_counts__Language of Original Document": {
+      "English": 1242,
+      "Portuguese": 6,
+      "German": 5,
+      "Chinese": 2,
+      "Spanish": 2,
+      "French": 2,
+      "Arabic": 1,
+      "Japanese": 1
+    },
+    "value_counts__Open Access": {
+      "[MISSING]": 1096,
+      "All Open Access; Gold Open Access; Green Open Access": 38,
+      "All Open Access; Bronze Open Access": 33,
+      "All Open Access; Gold Open Access": 30,
+      "All Open Access; Hybrid Gold Open Access": 26,
+      "All Open Access; Green Open Access": 25,
+      "All Open Access; Green Open Access; Hybrid Gold Open Access": 7,
+      "All Open Access; Bronze Open Access; Green Open Access": 5,
+      "All Open Access": 1
+    },
+    "author_keywords_total_instances": 4497,
+    "author_keywords_unique_raw": 2960,
+    "author_keywords_unique_lower": 2617,
+    "author_keywords_threshold_ge_2": 575,
+    "author_keywords_threshold_ge_5": 96,
+    "top_15_author_keywords_lower": [
+      {
+        "keyword": "chief information officer",
+        "count": 163
+      },
+      {
+        "keyword": "cio",
+        "count": 100
+      },
+      {
+        "keyword": "it leadership",
+        "count": 57
+      },
+      {
+        "keyword": "information technology",
+        "count": 52
+      },
+      {
+        "keyword": "digital transformation",
+        "count": 44
+      },
+      {
+        "keyword": "leadership",
+        "count": 42
+      },
+      {
+        "keyword": "chief information officer (cio)",
+        "count": 41
+      },
+      {
+        "keyword": "it governance",
+        "count": 39
+      },
+      {
+        "keyword": "cloud computing",
+        "count": 25
+      },
+      {
+        "keyword": "information systems",
+        "count": 23
+      },
+      {
+        "keyword": "chief information officers",
+        "count": 22
+      },
+      {
+        "keyword": "it management",
+        "count": 21
+      },
+      {
+        "keyword": "higher education",
+        "count": 18
+      },
+      {
+        "keyword": "firm performance",
+        "count": 18
+      },
+      {
+        "keyword": "enterprise architecture",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "file_name": "corpus_B.csv",
+    "corpus": "B",
+    "rows": 102,
+    "columns": 45,
+    "expected_columns_match": true,
+    "missing_expected_columns": [],
+    "extra_columns": [],
+    "year_min": 1986,
+    "year_max": 2025,
+    "records_below_min_year": 0,
+    "records_above_max_year": 0,
+    "years_above_max": [],
+    "years_below_min": [],
+    "duplicate_eid_rows": 0,
+    "missing_eid_rows": 0,
+    "duplicate_doi_rows_non_empty": 1,
+    "missing_doi_rows": 41,
+    "missing_pct__Title": 0.0,
+    "missing_pct__Year": 0.0,
+    "missing_pct__Source title": 0.0,
+    "missing_pct__Abstract": 0.0,
+    "missing_pct__Author Keywords": 27.45,
+    "missing_pct__Document Type": 0.0,
+    "missing_pct__Publication Stage": 0.0,
+    "missing_pct__Language of Original Document": 0.0,
+    "missing_pct__EID": 0.0,
+    "missing_pct__DOI": 40.2,
+    "value_counts__Document Type": {
+      "Conference paper": 43,
+      "Article": 42,
+      "Book chapter": 9,
+      "Conference review": 5,
+      "Review": 1,
+      "Short survey": 1,
+      "Retracted": 1
+    },
+    "value_counts__Publication Stage": {
+      "Final": 100,
+      "Article in press": 2
+    },
+    "value_counts__Language of Original Document": {
+      "English": 93,
+      "Spanish": 5,
+      "German": 2,
+      "French": 2
+    },
+    "value_counts__Open Access": {
+      "[MISSING]": 83,
+      "All Open Access; Gold Open Access; Green Open Access": 6,
+      "All Open Access; Bronze Open Access": 4,
+      "All Open Access; Green Open Access; Hybrid Gold Open Access": 3,
+      "All Open Access; Green Open Access": 2,
+      "All Open Access; Gold Open Access": 2,
+      "All Open Access; Bronze Open Access; Green Open Access": 1,
+      "All Open Access; Hybrid Gold Open Access": 1
+    },
+    "author_keywords_total_instances": 389,
+    "author_keywords_unique_raw": 310,
+    "author_keywords_unique_lower": 283,
+    "author_keywords_threshold_ge_2": 47,
+    "author_keywords_threshold_ge_5": 4,
+    "top_15_author_keywords_lower": [
+      {
+        "keyword": "smes",
+        "count": 13
+      },
+      {
+        "keyword": "it management",
+        "count": 11
+      },
+      {
+        "keyword": "sme",
+        "count": 10
+      },
+      {
+        "keyword": "information systems",
+        "count": 6
+      },
+      {
+        "keyword": "information management",
+        "count": 4
+      },
+      {
+        "keyword": "small business",
+        "count": 4
+      },
+      {
+        "keyword": "information system",
+        "count": 4
+      },
+      {
+        "keyword": "small and medium-sized enterprises",
+        "count": 4
+      },
+      {
+        "keyword": "small and medium enterprises",
+        "count": 4
+      },
+      {
+        "keyword": "strategic alignment",
+        "count": 4
+      },
+      {
+        "keyword": "information systems management",
+        "count": 3
+      },
+      {
+        "keyword": "information technology",
+        "count": 3
+      },
+      {
+        "keyword": "digital transformation",
+        "count": 3
+      },
+      {
+        "keyword": "information systems/management",
+        "count": 3
+      },
+      {
+        "keyword": "project management",
+        "count": 3
+      }
+    ]
+  }
+]

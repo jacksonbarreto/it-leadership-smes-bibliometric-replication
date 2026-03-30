@@ -1,0 +1,48 @@
+{
+  "generated_at_utc": "2026-03-23T12:04:06.520409+00:00",
+  "min_year": 1985,
+  "max_year": 2025,
+  "files": [
+    {
+      "source_file": "corpus_A.csv",
+      "output_file": "corpus_A_1985_2025.csv",
+      "removed_file": null,
+      "rows_before": 1421,
+      "rows_after": 1421,
+      "rows_removed": 0,
+      "year_min_before": 1985,
+      "year_max_before": 2025,
+      "year_min_after": 1985,
+      "year_max_after": 2025,
+      "removed_years": []
+    },
+    {
+      "source_file": "corpus_A_prime.csv",
+      "output_file": "corpus_A_prime_1985_2025.csv",
+      "removed_file": "corpus_A_prime_removed_out_of_range.csv",
+      "rows_before": 1261,
+      "rows_after": 1256,
+      "rows_removed": 5,
+      "year_min_before": 1985,
+      "year_max_before": 2026,
+      "year_min_after": 1985,
+      "year_max_after": 2025,
+      "removed_years": [
+        2026
+      ]
+    },
+    {
+      "source_file": "corpus_B.csv",
+      "output_file": "corpus_B_1985_2025.csv",
+      "removed_file": null,
+      "rows_before": 102,
+      "rows_after": 102,
+      "rows_removed": 0,
+      "year_min_before": 1986,
+      "year_max_before": 2025,
+      "year_min_after": 1986,
+      "year_max_after": 2025,
+      "removed_years": []
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+file_name,corpus,rows,columns,expected_columns_match,year_min,year_max,records_below_min_year,records_above_max_year,duplicate_eid_rows,missing_eid_rows,duplicate_doi_rows_non_empty,missing_doi_rows,missing_pct__Title,missing_pct__Year,missing_pct__Source title,missing_pct__Abstract,missing_pct__Author Keywords,missing_pct__Document Type,missing_pct__Publication Stage,missing_pct__Language of Original Document,missing_pct__EID,missing_pct__DOI,author_keywords_total_instances,author_keywords_unique_raw,author_keywords_unique_lower,author_keywords_threshold_ge_2,author_keywords_threshold_ge_5
+corpus_A.csv,A,1421,45,True,1985,2025,0,0,0,0,4,414,0.0,0.0,0.07,0.0,36.73,0.0,0.0,0.0,0.0,29.13,4826,3191,2813,614,104
+corpus_A_prime.csv,A_prime,1261,45,True,1985,2026,0,5,0,0,4,351,0.0,0.0,0.08,0.0,33.94,0.0,0.0,0.0,0.0,27.84,4497,2960,2617,575,96
+corpus_B.csv,B,102,45,True,1986,2025,0,0,0,0,1,41,0.0,0.0,0.0,0.0,27.45,0.0,0.0,0.0,0.0,40.2,389,310,283,47,4

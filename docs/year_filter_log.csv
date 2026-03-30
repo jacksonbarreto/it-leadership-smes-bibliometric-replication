@@ -1,0 +1,4 @@
+source_file,output_file,removed_file,rows_before,rows_after,rows_removed,year_min_before,year_max_before,year_min_after,year_max_after,removed_years
+corpus_A.csv,corpus_A_1985_2025.csv,,1421,1421,0,1985,2025,1985,2025,[]
+corpus_A_prime.csv,corpus_A_prime_1985_2025.csv,corpus_A_prime_removed_out_of_range.csv,1261,1256,5,1985,2026,1985,2025,[2026]
+corpus_B.csv,corpus_B_1985_2025.csv,,102,102,0,1986,2025,1986,2025,[]
