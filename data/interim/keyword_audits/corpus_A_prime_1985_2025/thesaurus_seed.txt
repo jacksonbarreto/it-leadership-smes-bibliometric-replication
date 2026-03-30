@@ -1,0 +1,100 @@
+label	replace by
+Chief Information Officer	Chief information officer
+chief information officer	Chief information officer
+Chief information officers	Chief information officer
+Chief Information Officers	Chief information officer
+chief information officers	Chief information officer
+Chief Information officer	Chief information officer
+CIOs	CIO
+information technology	Information technology
+Information Technology	Information technology
+Information Technologies	Information technology
+Information technologies	Information technology
+digital transformation	Digital transformation
+Digital Transformation	Digital transformation
+Digital transformations	Digital transformation
+information systems	Information systems
+Information Systems	Information systems
+Information system	Information systems
+information system	Information systems
+top management team	Top management team
+Top management teams	Top management team
+Top Management Team	Top management team
+top management teams	Top management team
+Chief digital officer	Chief Digital Officer
+chief digital officer	Chief Digital Officer
+chief digital officers	Chief Digital Officer
+IT Strategy	IT strategy
+IT strategies	IT strategy
+Technologies	Technology
+technology	Technology
+IT capability	IT capabilities
+IT Capabilities	IT capabilities
+IT Capability	IT capabilities
+IT investments	IT investment
+CIO role	CIO roles
+CIO Role	CIO roles
+CIO Roles	CIO roles
+Competitive Advantage	Competitive advantage
+competitive advantage	Competitive advantage
+Competitive advantages	Competitive advantage
+Green it	Green IT
+Green ITS	Green IT
+role	Roles
+Role	Roles
+roles	Roles
+CDOs	CDO
+competency	Competencies
+Case Studies	Case study
+Case studies	Case study
+competence	Competences
+Competence	Competences
+maturity model	Maturity model
+Maturity Model	Maturity model
+maturity models	Maturity model
+Maturity models	Maturity model
+Perception	Perceptions
+Government Chief Information Officer	government chief information officer
+Government chief information officer	government chief information officer
+Government Chief Information Officers	government chief information officer
+municipalities	Municipalities
+Municipality	Municipalities
+Capabilities	Capability
+CIO compensations	CIO compensation
+Cities	cities
+city	cities
+City	cities
+cloud	Cloud
+Clouds	Cloud
+Internal controls	Internal control
+Interview	Interviews
+interviews	Interviews
+IT Competence	IT competence
+IT Competences	IT competence
+IT Professional	IT professionals
+IT professional	IT professionals
+leadership style	Leadership style
+Leadership Styles	Leadership style
+Organizations	Organization
+chief data officer	Chief data officer
+chief data officers	Chief data officer
+Chief information officer roles	Chief information officer role
+CIO appointment	CIO appointments
+Cyberattacks	Cyberattack
+Digital technologies	digital technologies
+Digital technology	digital technologies
+Hospitals	Hospital
+manager	Manager
+Managers	Manager
+motivation	Motivations
+Ranking	Rankings
+Senior executives	senior executive
+senior executives	senior executive
+Teaching case	teaching cases
+university	Universities
+University	Universities
+Website	Websites
+career paths	Career path
+Complementarity	Complementarities
+Cultural dimensions	cultural dimension
+Design Patterns	Design Pattern

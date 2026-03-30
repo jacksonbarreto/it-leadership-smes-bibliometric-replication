@@ -1,0 +1,8 @@
+label	replace by
+SME	SMEs
+SMES	SMEs
+Information System	Information systems
+information system	Information systems
+Information Systems	Information systems
+Case study	Case studies
+Process models	Process model
