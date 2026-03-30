@@ -1,0 +1,96 @@
+label	replace by
+cdo	Chief Digital Officer
+CDO	Chief Digital Officer
+chief digital officer (cdo)	Chief Digital Officer
+chief digital officers	Chief Digital Officer
+Chief Information Officer	CIO
+chief information officer	CIO
+Chief information officer	CIO
+Chief Information officer	CIO
+Chief information officers	CIO
+Chief Information Officers	CIO
+chief information officers	CIO
+chief information officer (cio)	CIO
+CIOs	CIO
+CIO role	CIO role
+CIO Role	CIO role
+CIO Roles	CIO role
+Chief information officer role	CIO role
+Chief information officer roles	CIO role
+CIO appointment	CIO appointments
+Chief digital officer	Chief Digital Officer
+chief digital officer	Chief Digital Officer
+chief digital officers	Chief Digital Officer
+chief data officers	Chief data officer
+information technology (it)	Information technology
+Information technology (IT)	Information technology
+Information Technology (IT)	Information technology
+Information Technology	Information technology
+information technology	Information technology
+Information Technologies	Information technology
+Information technologies	Information technology
+Information Systems	Information systems
+Information System	Information systems
+information systems	Information systems
+information system	Information systems
+it-management	it management
+information systems/management	information systems management
+Digital Transformation	Digital transformation
+Digital transformation	Digital transformation
+Digital transformations	Digital transformation
+Digital technology	digital technologies
+Digital technologies	digital technologies
+IT Strategy	IT strategy
+IT strategies	IT strategy
+IT capability	IT capabilities
+IT Capability	IT capabilities
+IT Capabilities	IT capabilities
+IT investments	IT investment
+IT Competences	IT competence
+Top Management Team	Top management team
+top management team	Top management team
+Top management teams	Top management team
+top management teams	Top management team
+Senior executives	senior executive
+senior executives	senior executive
+Competitive Advantage	Competitive advantage
+competitive advantage	Competitive advantage
+Competitive advantages	Competitive advantage
+Organizations	Organization
+Case studies	Case study
+Case Studies	Case study
+Case study	Case study
+Process models	Process model
+maturity model	Maturity model
+Maturity Model	Maturity model
+maturity models	Maturity model
+Maturity models	Maturity model
+Design Patterns	Design Pattern
+Electronic Health Records	Electronic health record
+Electronic health records	Electronic health record
+electronic health records	Electronic health record
+electronic health record	Electronic health record
+Clinical Information Systems	Clinical information system
+Clinical information systems	Clinical information system
+Hospital	Hospitals
+hospitals	Hospitals
+green it	Green IT
+Green it	Green IT
+Green ITS	Green IT
+smes	SMEs
+SME	SMEs
+SMES	SMEs
+small and medium enterprises	SMEs
+small and medium-sized enterprises	SMEs
+small and medium enterprises (smes)	SMEs
+small businesses	small business
+manager	Manager
+Managers	Manager
+Teaching case	teaching cases
+University	Universities
+university	Universities
+Website	Websites
+career paths	Career path
+Cultural dimensions	cultural dimension
+Cyberattacks	Cyberattack
+Developing Country	Developing countries
