@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as follows."
+title: "Replication package for: Mapping the structural gap between IT leadership and IT management in SMEs: A comparative and longitudinal bibliometric analysis"
+type: dataset
+authors:
+  - family-names: "Barreto"
+    given-names: "Jackson"
+    orcid: "https://orcid.org/0000-0002-4064-8587"
+  - family-names: "Dieguez"
+    given-names: "Teresa"
+    orcid: "https://orcid.org/0000-0002-4886-1446"
+repository-code: "https://github.com/jacksonbarreto/it-leadership-smes-bibliometric-replication"
+abstract: "Replication package for a comparative and longitudinal bibliometric study on IT leadership and IT management in SMEs, including scripts, cleaned corpora, thesauri, validation logs, and processed bibliometric tables."
+license: "MIT"
+keywords:
+  - "bibliometric analysis"
+  - "IT leadership"
+  - "IT management"
+  - "SMEs"
+  - "Scopus"
+  - "VOSviewer"
+  - "bibliometrix"
+  - "reproducibility"
+version: "1.0.0"
+date-released: 2026-03-30
+doi: "10.5281/zenodo.[TO_BE_ADDED]"
+url: "https://doi.org/10.5281/zenodo.[TO_BE_ADDED]"
